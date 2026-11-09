@@ -1,0 +1,54 @@
+{
+  "version": "v4.12.0",
+  "commit": "1672a1d600c3ead5feabcb2a0759a3afd05f2be1",
+  "manifest": "fe8c4cf17c2bdafc88ef5ce148e2177b99aa59f0ccc7bcb423a79ed8d97292f4",
+  "budget": {
+    "lines": 200,
+    "bytes": 24576
+  },
+  "handoff": {
+    "lines": 60,
+    "bytes": 8192,
+    "lineChars": 600
+  },
+  "files": {
+    ".claude/hooks/guards/checks/ci.mjs": "6230c98cdea1648d97a18729584fbb41d5a25da8499e15cf7245a4ae33d2ea9f",
+    ".claude/hooks/guards/checks/edits.mjs": "2f83f79baaecde4427c686d60a875db0d39a6533acae4a8e782e3761e468438d",
+    ".claude/hooks/guards/checks/gates.mjs": "8b85214f4ead1a8880c1d9b770195e5e7f022b61c2a22af07111a2aa470bb90a",
+    ".claude/hooks/guards/checks/git.mjs": "55f89108aa4857dd2bc1d964aed970813f4cb7cbdbdc0c247e6a802b3376d96e",
+    ".claude/hooks/guards/checks/secrets.mjs": "c081635b637d4798a2bc102277aaf6ec29736e71ddd59807580cccab24d6913d",
+    ".claude/hooks/guards/checks/shell.mjs": "0a2808b6de4c4eb1349d18abc576d9513a5f27f43390f065b4b2f438415c5309",
+    ".claude/hooks/guards/checks/synced.mjs": "b7911a59b09f395850d06ad10454105f27712e4b539574c2b377fef9b6ee3730",
+    ".claude/hooks/guards/checks/tests.mjs": "bcd52bd5f9f848ad569f9c22b558c1a8192baec7a87c3f911eaff55623ba06f6",
+    ".claude/hooks/guards/counts.mjs": "4428425238cc06bc9b82c76d4f7dfac832c017da279dc3f0b339f03c98fc7db3",
+    ".claude/hooks/guards/glob.mjs": "312ecef9c9598ad034d9d41d73dda305ac23eae424bb604a1933402745fb524d",
+    ".claude/hooks/guards/lib.mjs": "9f08e5a1e2fc3e2da8c2472c05c0acdeacab6a9bdf07190dd9b6391b231cea79",
+    ".claude/hooks/guards/modules.mjs": "d5cade733d35c4c001e32c88ea348c9258d7048d27c2d8140565f9fefafdb995",
+    ".claude/hooks/guards/parse.mjs": "b3493fbe40a03c50fb6ca0fef37e66d52659330856340e012d532331f03d1566",
+    ".claude/hooks/guards/post-tool-use.mjs": "10a0cd4215a651f04348ceca1a7811098c48d28fd2825bee80209c40150b6a2b",
+    ".claude/hooks/guards/pre-tool-use.mjs": "01601a586de20da7206a611be58b370421175d63e6b45026d551c1fa7c510f86",
+    ".claude/hooks/guards/stop.mjs": "2dbefa7a08c2e1698f8066e4d90d2cdf5c22c58e3628f1db4c6466f4b43fa488",
+    ".claude/master/RULES.md": "a53c87c02f88371ff262aa854e862bff64308536ddacbf8bede3ed1384de5454",
+    ".claude/master/sync.mjs": "e112037c8b31ae5464beb4807c5ee2f7376cfaf9c114f5859d9017c6e4bf77c5"
+  },
+  "settings": [
+    {
+      "event": "PreToolUse",
+      "matcher": "Bash|Edit|Write|NotebookEdit|Read|Grep|mcp__claude-code-remote__send_later|mcp__claude-code-remote__create_trigger|mcp__github__pull_request_read|mcp__github__get_check_run|mcp__github__update_pull_request",
+      "command": "node \"$CLAUDE_PROJECT_DIR/.claude/hooks/guards/pre-tool-use.mjs\"",
+      "timeout": 10
+    },
+    {
+      "event": "PostToolUse",
+      "matcher": "Bash",
+      "command": "node \"$CLAUDE_PROJECT_DIR/.claude/hooks/guards/post-tool-use.mjs\"",
+      "timeout": 10
+    },
+    {
+      "event": "Stop",
+      "matcher": null,
+      "command": "node \"$CLAUDE_PROJECT_DIR/.claude/hooks/guards/stop.mjs\"",
+      "timeout": 10
+    }
+  ]
+}
