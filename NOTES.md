@@ -8,12 +8,12 @@ The concept is chosen ([brief](docs/CONCEPT.md), merged as #1). Design is under 
 
 Pages:
 - Brainstorm: [open questions](https://claude.ai/artifact/JRRFM9rYWv1Gbkc7cKrRym), [concepts](https://claude.ai/artifact/E57hx6ZSBmzf15F45XUtot), [round 1](https://claude.ai/artifact/Drq7sEeVNgVW3YJD4Uy3xQ).
-- Design: [round 1](https://claude.ai/artifact/7Bg2x2vWhFDfeJpDAva5Pn) (collection `design1`): 10 scenarios, 4 self questions, 5 structure forks. Waiting for Morgan's "design 1 done".
+- Design: [round 1](https://claude.ai/artifact/7Bg2x2vWhFDfeJpDAva5Pn) (`design1`, answered), [round 2](https://claude.ai/artifact/S3dJWfzsBi75dTDCyqvjXW) (`design2`): confirm 8 aspects in 4 pairs (Steward/Reveller, Face/Tide, Healer/Sovereign, Hearth/Hermit, each citing Morgan's words), pick 4 challengers (recommended: Elder, Reckoner, Stranger, Fool), and decide whether the "eat my feelings" line goes on any sheet. Waiting for "design 2 done".
+- Design agent cost so far: $0.31 measured (seat review). Brainstorm: $0.64.
 
 ## Next
 
-- Read design 1 answers (one `ArtifactData` list on `design1`). Draft candidate councillors, each citing its answers. Run the planning-interview review round. Then design round 2: confirm the seats, pair the opposites, check against Schwartz's values circle.
-- Then: names, races, looks, voices; the charter (procedure, length law, crisis rule); the home.
+- Read design 2 answers. Then design round 3: names, races, looks, voices; the charter (procedure, length law, crisis rule); the home.
 - Before building further: the kill test, 5 real stuck questions run plain vs as a sitting (brief, Kill criteria).
 - Brainstorm trial (D-048, master): measure 2 is "design round 1 asks nothing the brief answered"; measure 3 is "after design, Morgan says the concept survived unchanged". Report both to a master session for `decisions/benchmarks/brainstorm-trial.md`.
 
@@ -21,4 +21,5 @@ Pages:
 
 - 2026-11-09 Concept chosen: A+B+C merged, with D's decree line and E's copyable charter (brief, Concepts dropped). Morgan: "Do what you recommend".
 - 2026-11-09 12 councillors plus Morgan as head: 13, Morgan's favourite number.
+- 2026-11-09 Design round 1 (Morgan took every recommendation): 8 aspects in 4 opposed pairs + 4 outside challengers; Herald and Scribe are officers, not seats; 2-3 sentences a speaker; a mix of fantasy races and humans; a Claude Project with the charter and 12 sheets.
 - 2026-11-09 Lite profile: the project is prompts and character sheets, with no code, CI or UI.
