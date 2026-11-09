@@ -1,6 +1,6 @@
 # Agent instructions
 
-The Council: a fantasy council of 12 councillors, each a personified aspect of Morgan, that debates Morgan's questions in short sittings in Claude chats, with Morgan as head.
+The Council: a fantasy council of 12 councillors, each a personified aspect of Morgan, that debates Morgan's questions in short sittings in Claude chats, led by Morgan.
 
 Shared rules load through CLAUDE.md (`.claude/master/RULES.md`, AI-Master-Instructions lite profile). This file holds only what is specific to this project. Keep it under 30 lines.
 

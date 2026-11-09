@@ -1,6 +1,6 @@
 # Sample sitting (dry run, 2026-11-09)
 
-This is a test run of the charter by a separate Claude agent on the question "I've been offered a well-paid job that sounds really dull. Should I take it?" It is shown verbatim, up to the Scribe's insight. It is the second run, after Morgan found the first one "too unclear and difficult to comprehend" and charter law 8 (Speak plainly) was added. Afterwards, "challenger" was renamed "opposer" for the fourth voice, so it doesn't clash with the four challenger seats.
+This is a test run of the charter by a separate Claude agent on the question "I've been offered a well-paid job that sounds really dull. Should I take it?" It is shown verbatim, up to the Scribe's insight. It is the second run, after Morgan found the first one "too unclear and difficult to comprehend" and charter law 8 (Speak plainly) was added. Afterwards, "challenger" was renamed "opposer" for the fourth voice, so it doesn't clash with the four challenger seats. It also predates two later charter changes: councillors now call the user "Morgan", not "Head", and speakers answer each other by name, with a short crossfire after the challenge.
 
 > **🪶 Corvin:** The stone hall settles. The matter: whether to take a well-paid job that sounds really dull. Called: Thane, Maren, Aurelian. Fourth voice: Jinx answers Thane.
 >

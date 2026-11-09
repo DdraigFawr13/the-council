@@ -24,9 +24,10 @@ Pages:
 ## Decisions
 
 - 2026-11-09 Concept chosen: A+B+C merged, with D's decree line and E's copyable charter (brief, Concepts dropped). Morgan: "Do what you recommend".
-- 2026-11-09 12 councillors plus Morgan as head: 13, Morgan's favourite number.
+- 2026-11-09 12 councillors plus Morgan as leader: 13, Morgan's favourite number.
 - 2026-11-09 Design round 1 (Morgan took every recommendation): 8 aspects in 4 opposed pairs + 4 outside challengers; Herald and Scribe are officers, not seats; 2-3 sentences a speaker; a mix of fantasy races and humans; a Claude Project with the charter and 12 sheets.
 - 2026-11-09 Design round 2 (chat): challengers are the Elder, Reckoner, Stranger and Fool. The Hearth means "people miss that I want to be friends". Retitle the Face and the Tide. The "eat my feelings" line stays off every sheet (default; Morgan didn't object).
 - 2026-11-09 Design round 3: the 12 confirmed. Names: Thane Ironledger, Jinx Starlark, Ser Aldric Brightshield (the Bastion), Maren (the Heartwell), Elowen Kindleaf, Aurelian Goldmane, Hob Hearthwarm, Hush, Morrow, Sumner Brass, Grisk the Wayfarer, Motley. Officers: Corvin (Herald) and Vellum (Scribe).
 - 2026-11-09 Merged as #2 (Morgan approved; caveat "the speech dialogue is a little too unclear", fixed by law 8 before the merge). No CI in this repo.
+- 2026-11-09 After the first live sitting: councillors call the user "Morgan", never "Head" (Morgan: "I don't want to be called head"). Sittings get cross-talk: later speakers answer earlier ones by name, then a 2-4 line crossfire after the challenge (law 9, step 5, command `argue on`). 2-3 sentences a speaker still holds.
 - 2026-11-09 Lite profile: the project is prompts and character sheets, with no code, CI or UI.

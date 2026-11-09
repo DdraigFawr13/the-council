@@ -3,7 +3,7 @@
 - **Date:** 2026-11-09. **Pages:** [open questions](https://claude.ai/artifact/JRRFM9rYWv1Gbkc7cKrRym), [concepts](https://claude.ai/artifact/E57hx6ZSBmzf15F45XUtot), [round 1](https://claude.ai/artifact/Drq7sEeVNgVW3YJD4Uy3xQ). **Agent cost:** $0.64 measured (research $0.36, critique $0.28)
 
 ## Pitch
-A fantasy council in a Claude chat. Morgan sits as its head, and 12 councillors sit with them. Each councillor is the physical form of one aspect of Morgan, and some exist to challenge the others. Morgan brings a question, a few councillors argue it in short speeches, a challenger opposes, and Morgan rules. The point is to reach the "oh right" moment faster, and to learn what Morgan's fundamental aspects are and how they reflect each other.
+A fantasy council in a Claude chat. Morgan leads it, and 12 councillors sit with them. Each councillor is the physical form of one aspect of Morgan, and some exist to challenge the others. Morgan brings a question, a few councillors argue it in short speeches, a challenger opposes, and Morgan rules. The point is to reach the "oh right" moment faster, and to learn what Morgan's fundamental aspects are and how they reflect each other.
 
 ## Who it's for
 Morgan, in Claude chats (often on a phone). Others may see it. The format should be copyable later, but it is built for Morgan (round 1).
@@ -42,7 +42,7 @@ The seats are found in Morgan through scenario questions (B). Each seat cites th
 
 ## Design brief
 **Settled:**
-- 12 councillors plus Morgan as head (13, Morgan's favourite number).
+- 12 councillors plus Morgan, who leads them (13, Morgan's favourite number).
 - Each councillor's looks reflect their aspect (a fantasy race or human form).
 - The fantasy is whimsy, not the point.
 - It runs in Claude chats.
