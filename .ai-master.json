@@ -1,0 +1,9 @@
+{
+  "version": "v4.12.0",
+  "profile": "lite",
+  "layers": [
+    "core"
+  ],
+  "exclude": [],
+  "overrides": []
+}
