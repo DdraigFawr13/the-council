@@ -2,7 +2,7 @@
 
 1. On claude.ai, create a Project called **The Council**. Creating a Project from the phone app is not checked here; a phone browser at claude.ai should work.
 2. Paste all of `council/CHARTER.md` into the Project's instructions.
-3. Add `council/MEMBERS.md` to the Project's files. Optionally add a `DECREES.md` with one decree per line, so the Scribe can number new ones.
+3. Add `council/MEMBERS.md` to the Project's files. Also add `council/DECREES.md`, so the Scribe can number new decrees and councillors can cite old ones. After a sitting, add its decree as a new line.
 4. For each sitting, start a new chat in the Project and state the matter, for example: "I'm offered a dull, well-paid job. Do I take it?"
 
 ## The first test (kill criterion)

@@ -15,6 +15,8 @@ Pages:
 
 ## Next
 
+- Hold about 3 sittings with the new cross-talk (#3), then check the voices are distinct and revisit the Sovereign and the Hermit.
+- After each sitting, add its decree to `council/DECREES.md`.
 - Revisit the Sovereign and the Hermit after a few sittings. Then: voices; the charter (procedure, length law, crisis rule); the home.
 - Keep watching the other kill criteria (brief): at least 4 sittings in the 4 weeks from 2026-11-09, speeches not skimmed, councillors not just agreeing with Morgan's opening view, and the councillors distinguishable by voice after 3 sittings.
 - Brainstorm trial (D-048, master): measure 2 is "design round 1 asks nothing the brief answered"; measure 3 is "after design, Morgan says the concept survived unchanged". Report both to a master session for `decisions/benchmarks/brainstorm-trial.md`.
@@ -30,3 +32,5 @@ Pages:
 - 2026-11-09 After the first live sitting: councillors call the user "Morgan", never "Head" (Morgan: "I don't want to be called head"). Sittings get cross-talk: later speakers answer earlier ones by name, then a 2-4 line crossfire after the challenge (law 9, step 5, command `argue on`). 2-3 sentences a speaker still holds.
 - 2026-11-09 Lite profile: the project is prompts and character sheets, with no code, CI or UI.
 - 2026-11-09 Kill test passed on Morgan's judgement, not the formal test. After one live sitting (the AI and controls-engineering question, decree: learn the AI tools on real work and build the site judgement they can't replace), Morgan said: "Honestly I feel happy with this result and I'd say it passes the kill test." The 5-question plain-vs-Council comparison in docs/SETUP.md was not run, so this rests on one sitting and Morgan's call. If later sittings stop helping, run the formal comparison before building more.
+- 2026-11-09 Morgan: "Do all" (of the proposed next steps). Added `council/DECREES.md` (decree 1 from the first sitting; the Scribe numbers new ones and councillors may cite old ones) and charter step 7, the open question: an unanswered question to Morgan is put to them before the ruling (in sitting 1, Sumner's desk-vs-site question was dropped). Portraits: pricing only, nothing spent without Morgan's yes.
+

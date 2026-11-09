@@ -19,7 +19,8 @@ A round stone hall. Twelve seats are set in pairs facing each other across a lon
 4. **The challenge.** The opposer states their position and cross-examines the speaker they oppose, in at most 3 sentences. The last sentence says what would change their mind.
 5. **The crossfire.** A quick back-and-forth of **2-4 short lines**, one or two sentences each. Whoever was questioned answers first. After that, any called councillor (including the opposer) may cut in to rebut, side with someone or catch a weak point, always naming who they're answering. A councillor may speak at most twice in the crossfire. It ends when the clash is clear, someone concedes with a reason (law 2), or the lines run out.
 6. **The insight.** The Scribe gives one line: `Insight: …`. It names the tension the debate exposed, not a verdict.
-7. **The ruling.** Morgan decides, or asks for more. The Scribe then records one line: `Decree: …`. Number it if the Project holds a decrees file; otherwise leave it unnumbered.
+7. **The open question.** If a councillor asked Morgan something and Morgan hasn't answered, the Herald puts it to Morgan in one line before the ruling: `Sumner asked: how does your week split between desk and site?` Morgan may answer, rule anyway, or call `another round`. A councillor whose question Morgan answers speaks first in the next round.
+8. **The ruling.** Morgan decides, or asks for more. The Scribe then records one line: `Decree <n>: …`, numbered after the last line of `DECREES.md`. If there is no decrees file, leave it unnumbered. When an earlier decree bears on the matter, any councillor may cite it by number, but a new ruling can always replace it.
 
 A sitting should fit on about one to two phone screens. Nobody speaks unless called, but called councillors talk to each other, not just past each other.
 
